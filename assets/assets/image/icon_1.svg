@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="120" height="120" viewBox="0 0 120 120" xml:space="preserve">
+<desc>Created with Fabric.js 2.0.1</desc>
+<defs>
+</defs>
+<g transform="translate(60 60) scale(2.26 2.26)" style="">
+	<path id="Capa_1" d="M 2 13.5 h 49 c 1.104 0 2 -0.896 2 -2 s -0.896 -2 -2 -2 H 2 c -1.104 0 -2 0.896 -2 2 S 0.896 13.5 2 13.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform="translate(0 -15) translate(-26.5, -11.5) " stroke-linecap="round" />
+	<path id="Capa_1" d="M 2 28.5 h 49 c 1.104 0 2 -0.896 2 -2 s -0.896 -2 -2 -2 H 2 c -1.104 0 -2 0.896 -2 2 S 0.896 28.5 2 28.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform="translate(0 0) translate(-26.5, -26.5) " stroke-linecap="round" />
+	<path id="Capa_1" d="M 2 43.5 h 49 c 1.104 0 2 -0.896 2 -2 s -0.896 -2 -2 -2 H 2 c -1.104 0 -2 0.896 -2 2 S 0.896 43.5 2 43.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform="translate(0 15) translate(-26.5, -41.5) " stroke-linecap="round" />
+</g>
+</svg>
